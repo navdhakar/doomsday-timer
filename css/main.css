@@ -91,6 +91,13 @@
   color: rgb(250, 155, 14);
   text-transform: uppercase;
 }
+.author {
+  font-family: glitch;
+  font-size: 40px;
+  line-height: 1;
+  color: rgb(47, 115, 218);
+  text-transform: uppercase;
+}
 
 /*==================================================================
    SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
